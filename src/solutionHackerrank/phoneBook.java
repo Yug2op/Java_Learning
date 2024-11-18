@@ -1,8 +1,6 @@
 package solutionHackerrank;
 //Complete this code or write your own from scratch
 import java.util.*;
-import java.io.*;
-
 public class phoneBook {
         public static void main(String []argh){
             Scanner in = new Scanner(System.in);
